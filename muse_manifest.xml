@@ -1,0 +1,103 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kiggsradio.com" resolutions="1x" timestamp="1549204855057">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="136703182" ref="index"/>
+    <file name="nomq_index.css" crc="271710709" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="musepen_htlm5video_player.mulib" crc="177856957" seo="true" mt="1541055210000"/>
+    <file name="bricks-brickwall-brickwork-1092364.jpg" crc="398574406" seo="true" mt="1549200601000"/>
+    <file name="pexels-photo-1040499.jpeg" crc="4248334628" seo="true" mt="1549201027000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u324.php" crc="3802171361" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-u153.png" crc="3819864368" ref="index"/>
+    <file name="braxx.jpg" crc="7256178" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b2-u3345-fr.jpg" crc="280240127" ref="index"/>
+    <file name="1525139104713.jpg" crc="3816323674" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-logo-photos-download.png" crc="4156074543" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter-png-twitter-icon-logo-png-512.png" crc="4017116939" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-logo.png" crc="4217562664" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-u1532.png" crc="4039170788" ref="index"/>
+    <file name="b2.jpg" crc="168938423" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-u1533.png" crc="270676537" ref="index"/>
+    <file name="logo-u1534.png" crc="4078355858" ref="index"/>
+    <file name="logo-u1535.png" crc="4078355858" ref="index"/>
+    <file name="logo-u1536.png" crc="77222356" ref="index"/>
+    <file name="braxx-u3346-fr.jpg" crc="395134895" ref="index"/>
+    <file name="b2-u3345-fr2.jpg" crc="337391623" ref="index"/>
+    <file name="1525139104713-u3347-fr.jpg" crc="374065997" ref="index"/>
+    <file name="instagram-logo-photos-download-u3352-fr.png" crc="4154666214" ref="index"/>
+    <file name="twitter-png-twitter-icon-logo-png-512-u3353-fr.png" crc="3889136095" ref="index"/>
+    <file name="facebook-logo-u3354-fr.png" crc="486819797" ref="index"/>
+    <file name="logo-u1537.png" crc="4072092016" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="logo-u1538.png" crc="4266846968" ref="index"/>
+    <file name="logo-u1539.png" crc="4190239753" ref="index"/>
+    <file name="instagram-logo-photos-download-buttonu1796-fr.png" crc="4280184527" ref="index"/>
+    <file name="instagram-logo-photos-download-buttonu1796-fr2.png" crc="143106675" ref="index"/>
+    <file name="instagram-logo-photos-download-buttonu1796-fr3.png" crc="3809055797" ref="index"/>
+    <file name="instagram-logo-photos-download-buttonu1796-fr4.png" crc="78537878" ref="index"/>
+    <file name="instagram-logo-photos-download-buttonu1796-fr5.png" crc="4212530271" ref="index"/>
+  </folder>
+  <file name="index.html" crc="410271864" seo="true" mt="1549204417203" redirect="true"/>
+</manifest>
