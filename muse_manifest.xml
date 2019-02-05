@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kiggsradio.com" resolutions="1x" timestamp="1549204855057">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kiggsradio.com" resolutions="1x" timestamp="1549358785007">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="136703182" ref="index"/>
-    <file name="nomq_index.css" crc="271710709" ref="index"/>
+    <file name="index.css" crc="459113019" ref="index"/>
+    <file name="nomq_index.css" crc="268528706" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="musepen_htlm5video_player.mulib" crc="177856957" seo="true" mt="1541055210000"/>
-    <file name="bricks-brickwall-brickwork-1092364.jpg" crc="398574406" seo="true" mt="1549200601000"/>
-    <file name="pexels-photo-1040499.jpeg" crc="4248334628" seo="true" mt="1549201027000"/>
+    <file name="1920x1080-black-solid-color-background.jpg" crc="409724205" seo="true" mt="1549224910000"/>
+    <file name="1920x1080-white-solid-color-background.jpg" crc="3807247597" seo="true" mt="1549224886000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -35,13 +35,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="b2-u3345-fr.jpg" crc="280240127" ref="index"/>
     <file name="1525139104713.jpg" crc="3816323674" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -54,12 +50,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="twitter-png-twitter-icon-logo-png-512.png" crc="4017116939" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -72,32 +64,73 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="logo-u1532.png" crc="4039170788" ref="index"/>
     <file name="b2.jpg" crc="168938423" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo-u1533.png" crc="270676537" ref="index"/>
-    <file name="logo-u1534.png" crc="4078355858" ref="index"/>
-    <file name="logo-u1535.png" crc="4078355858" ref="index"/>
-    <file name="logo-u1536.png" crc="77222356" ref="index"/>
+    <file name="logo-u1534.png" crc="512407935" ref="index"/>
+    <file name="logo-u1535.png" crc="4171715178" ref="index"/>
+    <file name="logo-u1536.png" crc="52087064" ref="index"/>
     <file name="braxx-u3346-fr.jpg" crc="395134895" ref="index"/>
     <file name="b2-u3345-fr2.jpg" crc="337391623" ref="index"/>
     <file name="1525139104713-u3347-fr.jpg" crc="374065997" ref="index"/>
     <file name="instagram-logo-photos-download-u3352-fr.png" crc="4154666214" ref="index"/>
     <file name="twitter-png-twitter-icon-logo-png-512-u3353-fr.png" crc="3889136095" ref="index"/>
     <file name="facebook-logo-u3354-fr.png" crc="486819797" ref="index"/>
-    <file name="logo-u1537.png" crc="4072092016" ref="index"/>
+    <file name="logo-u1537.png" crc="3824848021" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="logo-u1538.png" crc="4266846968" ref="index"/>
-    <file name="logo-u1539.png" crc="4190239753" ref="index"/>
     <file name="instagram-logo-photos-download-buttonu1796-fr.png" crc="4280184527" ref="index"/>
     <file name="instagram-logo-photos-download-buttonu1796-fr2.png" crc="143106675" ref="index"/>
-    <file name="instagram-logo-photos-download-buttonu1796-fr3.png" crc="3809055797" ref="index"/>
-    <file name="instagram-logo-photos-download-buttonu1796-fr4.png" crc="78537878" ref="index"/>
+    <file name="instagram-logo-photos-download-buttonu1796-fr3.png" crc="359035615" ref="index"/>
+    <file name="instagram-logo-photos-download-buttonu1796-fr4.png" crc="3882300618" ref="index"/>
     <file name="instagram-logo-photos-download-buttonu1796-fr5.png" crc="4212530271" ref="index"/>
+    <file name="u239-7.png" crc="4259076159" ref="index"/>
+    <file name="u249-4.png" crc="394304976" ref="index"/>
+    <file name="u531-4.png" crc="44506899" ref="index"/>
+    <file name="u3366-4.png" crc="3916676795" ref="index"/>
+    <file name="u3348-5.png" crc="4234520651" ref="index"/>
+    <file name="u3350-5.png" crc="123270261" ref="index"/>
+    <file name="u3357-5.png" crc="90536125" ref="index"/>
+    <file name="u239-72.png" crc="4259076159" ref="index"/>
+    <file name="u249-42.png" crc="394304976" ref="index"/>
+    <file name="u531-42.png" crc="44506899" ref="index"/>
+    <file name="u3366-42.png" crc="3916676795" ref="index"/>
+    <file name="u3348-52.png" crc="4234520651" ref="index"/>
+    <file name="u3350-52.png" crc="123270261" ref="index"/>
+    <file name="u3357-52.png" crc="90536125" ref="index"/>
+    <file name="u239-73.png" crc="3892663534" ref="index"/>
+    <file name="u249-43.png" crc="4170875185" ref="index"/>
+    <file name="u531-43.png" crc="3958816485" ref="index"/>
+    <file name="u3366-43.png" crc="3916676795" ref="index"/>
+    <file name="u3348-53.png" crc="4234520651" ref="index"/>
+    <file name="u3350-53.png" crc="123270261" ref="index"/>
+    <file name="u3357-53.png" crc="90536125" ref="index"/>
+    <file name="u239-74.png" crc="3936850460" ref="index"/>
+    <file name="u249-44.png" crc="4074846679" ref="index"/>
+    <file name="u531-44.png" crc="4212492070" ref="index"/>
+    <file name="u3366-44.png" crc="3916676795" ref="index"/>
+    <file name="u3348-54.png" crc="4234520651" ref="index"/>
+    <file name="u3350-54.png" crc="123270261" ref="index"/>
+    <file name="u3357-54.png" crc="90536125" ref="index"/>
+    <file name="u239-75.png" crc="450195378" ref="index"/>
+    <file name="u249-45.png" crc="4170507327" ref="index"/>
+    <file name="u531-45.png" crc="3915616089" ref="index"/>
+    <file name="u3366-45.png" crc="3764705001" ref="index"/>
+    <file name="u3348-55.png" crc="4234520651" ref="index"/>
+    <file name="u3350-55.png" crc="123270261" ref="index"/>
+    <file name="u3357-55.png" crc="90536125" ref="index"/>
+    <file name="u239-76.png" crc="3781316837" ref="index"/>
+    <file name="u249-46.png" crc="477096724" ref="index"/>
+    <file name="u531-46.png" crc="3879607339" ref="index"/>
+    <file name="u3366-46.png" crc="4272269467" ref="index"/>
+    <file name="u3348-56.png" crc="79501392" ref="index"/>
+    <file name="u3350-56.png" crc="325375152" ref="index"/>
+    <file name="u3357-56.png" crc="4038688156" ref="index"/>
+    <file name="u239-77.png" crc="86613960" ref="index"/>
+    <file name="u249-47.png" crc="3886904927" ref="index"/>
+    <file name="u531-47.png" crc="3931130542" ref="index"/>
   </folder>
-  <file name="index.html" crc="410271864" seo="true" mt="1549204417203" redirect="true"/>
+  <file name="index.html" crc="432117356" seo="true" mt="1549358771200" redirect="true"/>
 </manifest>
