@@ -1,6 +1,10 @@
-# Kiggsradio
-simple internet radio web interface just for streaming.
+gonative-android
+================
 
-streaming from winamp in my pc. 
-using a winamp plugin called edcast.
-Edcast sends the stream to an online streaming server.
+This is the native Android code used by https://gonative.io/. It allows the creation of apps from existing mobile-optimized websites.
+
+How to use
+------------
+Import into Android Studio. Edit appConfig.json as appropriate.
+
+Licensing information available at https://gonative.io/.
