@@ -1,7 +1,7 @@
-gonative-android
+gonative-Kiggsradio
 ================
 
-This is the native Android code used by https://gonative.io/. It allows the creation of apps from existing mobile-optimized websites.
+This is the native Android code used by https://gonative.io/. It allowed the creation of  Kiggsradio app from an existing mobile-optimized website Kiggsradio.cladi.co.ke.
 
 How to use
 ------------
