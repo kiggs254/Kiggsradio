@@ -1,6 +1,6 @@
 # Kiggsradio
 simple internet radio web interface just for streaming.
+Now a collection of station hosted on a WordPress CMS.
+The Radio backend is running Azuracast for radio automation and management.
+Demo: kiggsradio.tk
 
-streaming from winamp in my pc. 
-using a winamp plugin called edcast.
-Edcast sends the stream to an online streaming server.
